@@ -1,0 +1,27 @@
+{
+  "name": "cesusc-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HevelynLV/cesusc-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HevelynLV/cesusc-devops/issues"
+  },
+  "homepage": "https://github.com/HevelynLV/cesusc-devops#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
